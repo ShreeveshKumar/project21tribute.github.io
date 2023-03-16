@@ -81,7 +81,7 @@ ul {
 
 
 
-@media screen and (width<=400px){
+@media screen and (width<=720px){
     #b1{
         font-size: 20px;
         align-content: center;
@@ -105,6 +105,7 @@ ul {
         margin-bottom: 40px;
         /* padding-bottom: -10px; */
     }
+    /* for youtube video tt22  */
     #tt22{
         border-left: 0px;
         margin-right:100px;
@@ -129,6 +130,8 @@ ul {
         margin-right: 30px;
         margin-bottom: 40px;
     }
+
+    /* for youtube video tt25 */
     #tt25{
         text-align:"center";
         margin-left:5px;
